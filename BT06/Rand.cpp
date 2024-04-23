@@ -8,5 +8,5 @@ int main (){
     int N;
     cout << "nhap so N: ";
     cin >> N;
-    cout << "so ngau nhien nho hon " << N << "la " <<randomNumber(N);
+    cout << "so ngau nhien nho hon " << N << " la " <<randomNumber(N);
 }
